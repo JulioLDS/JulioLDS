@@ -17,11 +17,20 @@
 
 <h2 style="color:#F8D847; font-size: 30px;">Sobre mim</h2>  
 
+<br>
+
 ✔️ Olá! Meu nome é **Julio Lima** e sou formado em **Técnico em Aálise e Desenvolvimento de Sistemas**.  
+<br>
+
 ✔️ Atualmente, estou cursando **Técnólogo em Aálise e Desenvolvimento de Sistemas** e realizando projetos com oobjetivo de aprimorar minhas habilidades em JavaScript e CSS.  
+<br>
+
 ✔️ Sou facinado pelo desenvolvimento Web principalmente na criação de layouts e design das páginas
+<br>
 
 <h2 style="color:#A9FEE3; font-size: 30px;">💠 Tecnologias e Ferramentas</h2>  
+
+<br>
 
 ### 🖥️ **Linguagens de Programação**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +48,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+<br>
+
 <h2 style="color:#F8D847; font-size: 30px;">Onde me encontrar❓</h2>  
+
+<br>
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
