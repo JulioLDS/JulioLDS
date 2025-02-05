@@ -27,7 +27,7 @@
 
 ✔️ Sou facinado pelo desenvolvimento Web principalmente na criação de layouts e design das páginas
 <br>
-
+<br>
 <h2 style="color:#A9FEE3; font-size: 30px;">💠 Tecnologias e Ferramentas</h2>  
 
 <br>
