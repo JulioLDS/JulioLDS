@@ -1,4 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=417cea&height=120&section=header"/>
+
+<div>
 <div align="center">
   <!-- título animado -->
   
@@ -13,6 +15,7 @@
 ####
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulioLDS&locale=en&hide_title=false&bg_color=0d1117&border_color=417cea&layout=compact&card_width=335&langs_count=5&theme=blueberry&hide_border=false" height="180" alt="languages graph"  />
+</div>
 </div>
 
 ###
