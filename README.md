@@ -22,7 +22,7 @@
 ✔️ Olá! Meu nome é **Julio Lima** e sou formado em **Técnico em Aálise e Desenvolvimento de Sistemas**.  
 <br>
 
-✔️ Atualmente, estou cursando **Técnólogo em Aálise e Desenvolvimento de Sistemas** e realizando projetos com oobjetivo de aprimorar minhas habilidades em JavaScript e CSS.  
+✔️ Atualmente, estou cursando **Técnólogo em Análise e Desenvolvimento de Sistemas** e realizando projetos com oobjetivo de aprimorar minhas habilidades em JavaScript e CSS.  
 <br>
 
 ✔️ Sou facinado pelo desenvolvimento Web principalmente na criação de layouts e design das páginas
