@@ -2,30 +2,38 @@
 <div align="center">
   <!-- título animado -->
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=417cea&size=40&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1,+meu+nome+%C3%A9+Julio+Lima;Bem-vindo+ao+meu+perfil!+%F0%9F%98%8A)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=417cea&size=45&center=true&vCenter=true&width=1000&height=55&lines=Ol%C3%A1,+meu+nome+%C3%A9+Julio+Lima;Bem-vindo+ao+meu+perfil!+%F0%9F%98%8A)](https://git.io/typing-svg) 
+  #
     
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JulioLDS&hide_title=false&border_color=417cea&bg_color=0d1117&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulioLDS&locale=en&hide_title=false&bg_color=0d1117&border_color=417cea&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="180" alt="languages graph"  />
+
+####
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulioLDS&locale=en&hide_title=false&bg_color=0d1117&border_color=417cea&layout=compact&card_width=335&langs_count=5&theme=blueberry&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
-
-<h3 align="left">Sobre mim</h3>
-
-###
-
-<h6 align="left">✔️ Olá! Meu nome é Julio Lima e sou formado em Técnico em Aálise e Desenvolvimento de Sistemas.<br>✔️ Atualmente, estou cursando Técnólogo em ADS e realizando projetos para aprimorar minhas habilidades em JavaScript e CSS.<br>✔️ Sou facinado pelo desenvolvimento Web principalmente na criação de layouts e design das páginas</h6>
+#
+<h3 align="center">Sobre mim</h3>
 
 ###
 
-<h3 align="left">Linguagens</h3>
+<P align="left">
+  ✔️ Olá! Meu nome é Julio Lima e sou formado em Técnico em Aálise e Desenvolvimento de Sistemas.<br> 
+  ✔️ Atualmente, estou cursando Técnólogo em ADS e realizando projetos para aprimorar minhas habilidades em JavaScript e CSS.<br>
+  ✔️ Sou facinado pelo desenvolvimento Web principalmente na criação de layouts e design das páginas</h6>
+
+<br>
+
+###
+<h3 align="center">💻 Linguagens</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -37,13 +45,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
 </div>
 
+
+<br>
+
+<h3 align="center">🛠️ Ferramentas</h3>
+
 ###
 
-<h3 align="left">Ferramentas</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo"  />
@@ -59,7 +68,7 @@
 
 ###
 
-<h3 align="left">Onde me encontrar?</h3>
+<h2 align="left">Onde me encontrar?</h3>
 
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/83/04/42/830442527d62946878cc03c7df555707.gif"  />
