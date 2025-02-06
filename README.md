@@ -2,18 +2,18 @@
 
 <div>
 <div align="center">
+
   <!-- título animado -->
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=417cea&size=45&center=true&vCenter=true&width=1000&height=55&lines=Ol%C3%A1,+meu+nome+%C3%A9+Julio+Lima;Bem-vindo+ao+meu+perfil!+%F0%9F%98%8A)](https://git.io/typing-svg) 
   #
-    
+
 </div>
 
-<div align="left">
+<div height="890" align="center">
+  <img align="right" width="350" height="410" src="https://i.pinimg.com/originals/e1/fd/e8/e1fde825b707b40b94d70d9892231ade.gif"/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=JulioLDS&hide_title=false&border_color=417cea&bg_color=0d1117&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="180" alt="stats graph"  />
-
-  <img align="right" height="190" src="https://br.pinterest.com/pin/91901648640014602/"/>
 
 ####
   
