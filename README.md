@@ -79,7 +79,7 @@
 <h2 align="left">Onde me encontrar?</h3>
 
 
-<img align="right" height="190" src="https://s7.ezgif.com/tmp/ezgif-72d49aec3c05f.gif"  />
+<img align="right" height="190" src="https://pin.it/4UObIx3qr"  />
 
 ###
 <div align="left">
