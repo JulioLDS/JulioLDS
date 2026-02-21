@@ -1,6 +1,8 @@
-<h1 align="center">👨‍💻 Analista e Desenvolvedor de Sistemas</h1>
+<div align="center" style="margin-top: -20px;">
+  <img src="https://drive.google.com/uc?export=view&id=1oXVQ7NuceLYTskGrLGePEF2nEZzqEe8x" width="100%" />
+</div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -21,6 +23,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
+<br>
+
+
+###
+
+<img align="right" height="180" src="https://media.tenor.com/wbrWIlHcoSoAAAAM/computer-rage.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JuliolDS&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="500" alt="streak graph"  />
+</div>
 
 ###
 
@@ -40,16 +54,6 @@
   <a href="https://telegram.org/dl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<img align="right" height="180" src="https://media.tenor.com/wbrWIlHcoSoAAAAM/computer-rage.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuliolDS&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="500" alt="streak graph"  />
 </div>
 
 ###
